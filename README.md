@@ -23,7 +23,7 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
 
 <div align="center">
-  <a href="https://t2ne.github.io" target="_blank" rel="noopener noreferrer>
+  <a href="https://t2ne.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge" alt="Website">
   </a>
 </div>
