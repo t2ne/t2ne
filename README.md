@@ -22,8 +22,7 @@
 
 </div>
 
-
-<img align="center" src=".github\media\snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/t2ne/t2ne/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 <div align="center">
