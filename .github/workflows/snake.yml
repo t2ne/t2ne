@@ -1,4 +1,4 @@
-name: Snake
+name: Generate snake
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: snake.svg
+      - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ t2ne }}
