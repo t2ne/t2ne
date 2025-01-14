@@ -12,19 +12,23 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=t8ne&icon=5&color=12)](https://visitcount.itsvg.in)
 
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=35&duration=4000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=t2ne)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%3E+thank+you+for+visiting;%3E+check+out+my+website;%3E+enjoy+your+stay)](https://git.io/typing-svg)
+
+</div>
+
 
 <img align="center" src=".github\media\snake.svg" alt="Snake animation" />
 
-<!--
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=t8ne&color=grey&style=for-the-badge&label=Views%3A" alt="Views">
-</div>
--->
-
+<!---
 <div align="center">
   <a href="https://t2ne.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge" alt="Website">
   </a>
 </div>
-
+-->
