@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=%3E+thank+you+for+visiting;%3E+check+out+my+website;%3E+enjoy+your+stay)](https://git.io/typing-svg)
 
-<a>--------------------------------------------------------------</a>
+<h2 align="center"></h2>
 
 <h3>Watch my contribution graph get eaten by a snake 🐍</h3>
 
@@ -35,3 +35,9 @@
   </a>
 </div>
 -->
+
+<h2 align="center">Discord</h2>
+
+<p align="center">
+  <a href="https://discordapp.com/users/429292051755040778"><img src = "https://lanyard.cnrad.dev/api/429292051755040778", alt = "Discord"></a>
+</p>
