@@ -34,10 +34,11 @@
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge" alt="Website">
   </a>
 </div>
--->
+
 
 <h2 align="center">Discord</h2>
 
 <p align="center">
   <a href="https://discordapp.com/users/429292051755040778"><img src = "https://lanyard.cnrad.dev/api/429292051755040778", alt = "Discord"></a>
 </p>
+--->
