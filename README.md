@@ -7,6 +7,6 @@
 [<img height="200" alt="Ascii Art" src="etc/ascii.png"/>](https://no-tone.com)
 
 <sub><b>Note:</b> Some of my repos include university work, practical day-to-day tools, occasional hobby projects, and some AI testing.</sub>  
-<sub>Contact info at [no-tone.com](http://no-tone.com).</sub>
+<sub>Contact info, projects list and more at [no-tone.com](http://no-tone.com).</sub>
 
 </div>
